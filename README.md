@@ -4,3 +4,4 @@ I used Jackson 2.2.3 to convert POJO to JSON and vice versa .
 Spring - 4.0.0
 Hibernate - 4.3.5
 Jackson databaind - 2.2.3
+Java version - 1.8
