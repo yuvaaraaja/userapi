@@ -14,8 +14,6 @@ public interface UserDAO {
 	
 	public User listByID(String user_id);
 	
-	public User listByIDWithPassword(String user_id);
-	
 	public void delete(String user_id);
 
 }

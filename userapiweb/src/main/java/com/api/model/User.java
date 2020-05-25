@@ -15,7 +15,6 @@ public class User {
 	private String user_id;
 	private String firstname;
 	private String lastname;
-	private String password;
 	public String getUser_id() {
 		return user_id;
 	}
@@ -33,12 +32,6 @@ public class User {
 	}
 	public void setLastname(String lastname) {
 		this.lastname = lastname;
-	}
-	public String getPassword() {
-		return password;
-	}
-	public void setPassword(String password) {
-		this.password = password;
 	}
 	
 	@Override
